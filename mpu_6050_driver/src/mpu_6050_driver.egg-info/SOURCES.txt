@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+scripts/imu_node.py
+src/mpu_6050_driver/__init__.py
+src/mpu_6050_driver/registers.py
+src/mpu_6050_driver.egg-info/PKG-INFO
+src/mpu_6050_driver.egg-info/SOURCES.txt
+src/mpu_6050_driver.egg-info/dependency_links.txt
+src/mpu_6050_driver.egg-info/requires.txt
+src/mpu_6050_driver.egg-info/top_level.txt
